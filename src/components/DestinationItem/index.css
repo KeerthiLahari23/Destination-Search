@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.items-container {
+  list-style-type: none;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 25px;
+}
+.image {
+  width: 250px;
+  height: 200px;
+}
